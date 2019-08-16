@@ -1,0 +1,19 @@
+h1 {
+  font-family: 'Niconne', cursive !important;
+  line-height: 1.6;
+  font-weight: 600;
+  color: #c69963;
+}
+
+body {
+  background: #101d2c !important;
+}
+
+#loading,
+#results {
+  display: none;
+}
+
+#loading {
+  color: #191919 !important;
+}
